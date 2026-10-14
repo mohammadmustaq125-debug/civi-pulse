@@ -1,0 +1,6 @@
+{
+  "name": "Resilify AI - Autonomous Urban Crisis & Smart City Resilience Grid",
+  "description": "An autonomous municipal emergency coordination and public safety intelligence platform powered by multimodal Gemini AI. Predicts urban hazards, triages citizen crises, and orchestrates life-saving civic emergency response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
